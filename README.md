@@ -27,4 +27,9 @@ Notice that the first row is perfectly ordered from 1-9
 to download the code and try it out for yourself:
 1. Create a folder in the desired location
 2. Navigate to the folder in a command line
-3. Clone repository ()
+3. Clone repository (git clone https://github.com/Alan-Ward/Sudoku-Solver.git)
+4. Open Sudoku-Solver.py in your favorite IDE
+5. Manually enter unsolved matrix into "matrix"
+6. Run file
+
+Thanks for checking out my repository
